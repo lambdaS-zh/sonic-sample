@@ -4,6 +4,8 @@
 
 本仓库通过 GitHub Releases 发布预先录制的 `.swsonic` 包，每个包均来自真实在线网站的录制或本地网站的录制。你可以下载任意包，使用 **Sonic Player** 在完全离线的环境下体验原页面的网络交互效果。
 
+![eaglecraftx](./screenshots/eaglecraftx.png)
+
 ---
 
 ## 快速开始
