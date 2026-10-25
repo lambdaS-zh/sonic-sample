@@ -25,6 +25,7 @@
 | `LifeGame.swsonic` | https://copy.sh/life/ | 康威生命游戏 | 来自copy.sh |
 | `BuildrootLinux.swsonic` | https://copy.sh/v86/?profile=buildroot | BuildRoot Linux，一个精简版的Linux | 来自copy.sh |
 | `EaglecraftX1.12.2-u2.swsonic` | https://eaglercraft-minecraft.com/game/eaglercraft/ | 网页版minecraft | 我的世界 |
+| `Skygarden.swsonic` | https://flashmuseum.net/game/sky-garden-8zx/ | flash游戏《空中花园》 | 这个游戏无法通过下载swf文件来离线收藏游玩 |
 | … | … | … | … |
 
 *表格将持续更新，更多示例见 Releases 页面。*
